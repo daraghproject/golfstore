@@ -1817,3 +1817,256 @@ Processing by StaticPagesController#home as HTML
 Completed 200 OK in 23ms (Views: 21.9ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:18:42 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  Rendered items/index.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/workspace/app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ubuntu/workspace/app/views/items/index.html.erb:43: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting keyword_end
+app/views/items/index.html.erb:43: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:19:47 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  Rendered items/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/workspace/app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ubuntu/workspace/app/views/items/index.html.erb:43: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting keyword_end
+app/views/items/index.html.erb:43: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:20:20 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  Rendered items/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/workspace/app/views/items/index.html.erb:32: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;     end 
+                 ^
+/home/ubuntu/workspace/app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting ')'
+/home/ubuntu/workspace/app/views/items/index.html.erb:43: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/items/index.html.erb:32: syntax error, unexpected keyword_end, expecting ')'
+app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/items/index.html.erb:43: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:21:17 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  Rendered items/index.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/workspace/app/views/items/index.html.erb:32: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;     end 
+                 ^
+/home/ubuntu/workspace/app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting ')'
+/home/ubuntu/workspace/app/views/items/index.html.erb:43: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/items/index.html.erb:32: syntax error, unexpected keyword_end, expecting ')'
+app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/items/index.html.erb:43: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:21:43 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  Rendered items/index.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/workspace/app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ubuntu/workspace/app/views/items/index.html.erb:43: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting keyword_end
+app/views/items/index.html.erb:43: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:21:45 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  Rendered items/index.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/workspace/app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ubuntu/workspace/app/views/items/index.html.erb:43: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting keyword_end
+app/views/items/index.html.erb:43: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:22:08 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  Rendered items/index.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/workspace/app/views/items/index.html.erb:18: syntax error, unexpected ')', expecting =>
+...:style => "height:100px", item) );@output_buffer.safe_append...
+...                               ^
+/home/ubuntu/workspace/app/views/items/index.html.erb:32: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;     end 
+                 ^
+/home/ubuntu/workspace/app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting ')'
+/home/ubuntu/workspace/app/views/items/index.html.erb:43: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/items/index.html.erb:18: syntax error, unexpected ')', expecting =>
+app/views/items/index.html.erb:32: syntax error, unexpected keyword_end, expecting ')'
+app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/items/index.html.erb:43: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:22:10 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  Rendered items/index.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/workspace/app/views/items/index.html.erb:18: syntax error, unexpected ')', expecting =>
+...:style => "height:100px", item) );@output_buffer.safe_append...
+...                               ^
+/home/ubuntu/workspace/app/views/items/index.html.erb:32: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;     end 
+                 ^
+/home/ubuntu/workspace/app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting ')'
+/home/ubuntu/workspace/app/views/items/index.html.erb:43: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/items/index.html.erb:18: syntax error, unexpected ')', expecting =>
+app/views/items/index.html.erb:32: syntax error, unexpected keyword_end, expecting ')'
+app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/items/index.html.erb:43: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:23:04 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  Rendered items/index.html.erb within layouts/application (1.1ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/workspace/app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ubuntu/workspace/app/views/items/index.html.erb:43: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting keyword_end
+app/views/items/index.html.erb:43: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:23:05 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  Rendered items/index.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/workspace/app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ubuntu/workspace/app/views/items/index.html.erb:43: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting keyword_end
+app/views/items/index.html.erb:43: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:23:33 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  Rendered items/index.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/workspace/app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ubuntu/workspace/app/views/items/index.html.erb:43: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/views/items/index.html.erb:41: syntax error, unexpected keyword_ensure, expecting keyword_end
+app/views/items/index.html.erb:43: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:23:53 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  Rendered items/index.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/workspace/app/views/items/index.html.erb:32: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ubuntu/workspace/app/views/items/index.html.erb:34: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/views/items/index.html.erb:32: syntax error, unexpected keyword_ensure, expecting keyword_end
+app/views/items/index.html.erb:34: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:24:43 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  Rendered items/index.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/workspace/app/views/items/index.html.erb:32: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ubuntu/workspace/app/views/items/index.html.erb:34: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/views/items/index.html.erb:32: syntax error, unexpected keyword_ensure, expecting keyword_end
+app/views/items/index.html.erb:34: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:24:44 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  Rendered items/index.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/workspace/app/views/items/index.html.erb:32: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ubuntu/workspace/app/views/items/index.html.erb:34: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/views/items/index.html.erb:32: syntax error, unexpected keyword_ensure, expecting keyword_end
+app/views/items/index.html.erb:34: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:24:58 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  [1m[36mItem Load (0.3ms)[0m  [1m[34mSELECT "items".* FROM "items"[0m
+  Rendered items/index.html.erb within layouts/application (145.9ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 179ms (Views: 177.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:25:09 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  [1m[36mItem Load (0.2ms)[0m  [1m[34mSELECT "items".* FROM "items"[0m
+  Rendered items/index.html.erb within layouts/application (6.5ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 30ms (Views: 27.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/items" for 79.97.101.4 at 2017-10-20 18:25:11 +0000
+Cannot render console from 79.97.101.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ItemsController#index as HTML
+  Rendering items/index.html.erb within layouts/application
+  [1m[36mItem Load (0.2ms)[0m  [1m[34mSELECT "items".* FROM "items"[0m
+  Rendered items/index.html.erb within layouts/application (6.5ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 29ms (Views: 27.5ms | ActiveRecord: 0.2ms)
+
+
